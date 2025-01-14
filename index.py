@@ -163,4 +163,9 @@ def Main():
        showMenu()
        SelectFunc()
 
+def Main():
+    while logout:
+       showMenu()
+       SelectFunc()
+
 Main()
